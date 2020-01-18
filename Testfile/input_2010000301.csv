@@ -1,0 +1,55 @@
+﻿"Wholesale sales, price and volume, by industry, seasonally adjusted (x 1,000,000)" 1 2
+"Monthly"
+"Table: 20-10-0003-01 (formerly CANSIM 081-0018)"
+"Geography: Canada"
+
+"","Canada",,,,
+"","Wholesale sales at 2012 constant prices 3",,,,
+"North American Industry Classification System (NAICS)","June 2019","July 2019","August 2019","September 2019","October 2019"
+"","Dollars",,,,
+"Wholesale trade  [41]","57,423A","58,211A","57,532A","57,873A","57,232A"
+"Farm product merchant wholesalers  [411]","1,220A","1,215B","1,286B","1,235A","1,249B"
+"Food, beverage and tobacco merchant wholesalers  [413]","10,155A","10,157A","9,993A","10,019A","10,049A"
+"Food merchant wholesalers  [4131]","9,040A","9,009A","8,885A","8,885A","8,955A"
+"Beverage merchant wholesalers  [4132]","650A","642A","645A","675A","630A"
+"Cigarette and tobacco product merchant wholesalers  [4133]","465B","506B","462A","459A","464A"
+"Personal and household goods merchant wholesalers  [414]","9,086A","9,527A","9,277A","9,385A","9,390A"
+"Textile, clothing and footwear merchant wholesalers  [4141]","1,284B","1,410C","1,264C","1,253B","1,163C"
+"Home entertainment equipment and household appliance merchant wholesalers  [4142]","767A","804A","787A","843A","850A"
+"Home furnishings merchant wholesalers  [4143]","553A","518A","547A","569A","562B"
+"Personal goods merchant wholesalers  [4144]","968B","941B","921B","932B","872A"
+"Pharmaceuticals, toiletries, cosmetics and sundries merchant wholesalers  [4145]","5,514A","5,855A","5,758A","5,789A","5,942A"
+"Pharmaceuticals and pharmacy supplies merchant wholesalers  [41451]","4,624A","4,967A","4,879A","4,905A","5,041A"
+"Toiletries, cosmetics and sundries merchant wholesalers  [41452]","890B","888B","879B","883A","901A"
+"Motor vehicle and motor vehicle parts and accessories merchant wholesalers   [415]","9,596A","9,958A","9,837A","9,721A","9,745A"
+"Motor vehicle merchant wholesalers  [4151]","7,453A","7,801A","7,719A","7,631A","7,779A"
+"New motor vehicle parts and accessories merchant wholesalers  [4152]","2,078A","2,091A","2,045A","2,026A","1,891A"
+"Used motor vehicle parts and accessories merchant wholesalers  [4153]","65B","66C","74C","64C","75B"
+"Building material and supplies merchant wholesalers  [416]","7,650A","7,635A","7,673A","7,666A","7,669A"
+"Electrical, plumbing, heating and air-conditioning equipment and supplies merchant wholesalers  [4161]","2,445A","2,470A","2,418A","2,494A","2,500A"
+"Metal service centres  [4162]","1,749A","1,723A","1,792A","1,760A","1,785A"
+"Lumber, millwork, hardware and other building supplies merchant wholesalers  [4163]","3,456A","3,442A","3,463A","3,412A","3,383A"
+"Machinery, equipment and supplies merchant wholesalers  [417]","12,256A","12,030A","11,692A","12,193A","11,804A"
+"Farm, lawn and garden machinery and equipment merchant wholesalers  [4171]","1,384A","1,402A","1,327A","1,412A","1,360A"
+"Construction, forestry, mining, and industrial machinery, equipment and supplies merchant wholesalers  [4172]","3,438A","3,322A","3,155A","3,357A","3,265A"
+"Computer and communications equipment and supplies merchant wholesalers  [4173]","4,173A","4,081A","4,143A","4,199A","4,020A"
+"Other machinery, equipment and supplies merchant wholesalers  [4179]","3,261B","3,225B","3,068B","3,225B","3,159B"
+"Miscellaneous merchant wholesalers  [418]","7,460A","7,689A","7,774A","7,654A","7,327B"
+"Recyclable material merchant wholesalers  [4181]","695B","752B","773C","755B","656C"
+"Paper, paper product and disposable plastic product merchant wholesalers  [4182]","887A","844A","822A","830A","830A"
+"Agricultural supplies merchant wholesalers  [4183]","2,436A","2,667A","2,718B","2,570A","2,328A"
+"Chemical (except agricultural) and allied product merchant wholesalers  [4184]","1,165A","1,233A","1,235A","1,201A","1,197B"
+"Other miscellaneous merchant wholesalers  [4189]","2,278A","2,193A","2,226A","2,297A","2,316B"
+
+B : data quality: very good,
+C : data quality: good,
+A : data quality: excellent,
+
+Footnotes:
+1,This table replaces archived table 20-10-0018-01.
+2,"Effective with the September 2018 release of the wholesale trade estimates on November 21st 2018, wholesale sales estimates disseminated by Manufacturing and Wholesale Trade Division have been converted from a 2007 reference year to a 2012 reference year for its volume and price estimates. Constant price estimates and their associated price index are now using 2012 as their base year.  Adopting a new reference year didn't affect constant dollars sales estimates growth rates over the period 2004 to 2011 as it represents a rescaling of the 2007-based data. However, levels and growth rates of the estimates for the period of 2012 to date have been affected by revisions to estimates at current prices and to price indices."
+3,Compiled using Laspeyres index formula.
+
+"How to cite: Statistics Canada. Table 20-10-0003-01 Wholesale sales, price and volume, by industry, seasonally adjusted (x 1,000,000)"
+https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=2010000301
+DOI: https://doi.org/10.25318/2010000301-eng
